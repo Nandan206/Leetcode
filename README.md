@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nandan206/Leetcode/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/Nandan206/Leetcode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
