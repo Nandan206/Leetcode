@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nandan206/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/Nandan206/Leetcode/tree/master/0217-contains-duplicate) |
 | [0861-flipping-an-image](https://github.com/Nandan206/Leetcode/tree/master/0861-flipping-an-image) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Nandan206/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandan206/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Nandan206/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Nandan206/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Nandan206/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Nandan206/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/Nandan206/Leetcode/tree/master/2383-add-two-integers) |
 ## Database
