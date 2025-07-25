@@ -6,8 +6,9 @@ class Solution {
         int count = 0;
         for(int i=0;i<nums.length;i++){
             int digit = 0;
-            while(nums[i] != 0){
-                nums[i] = nums[i]/10;
+            int num = nums[i];
+            while(num != 0){
+                num /= 10;
                 digit++;
             }
             if(digit % 2 ==0){
