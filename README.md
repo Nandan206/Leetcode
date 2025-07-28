@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Nandan206/Leetcode/tree/master/0058-length-of-last-word) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Nandan206/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
