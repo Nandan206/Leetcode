@@ -1,17 +1,15 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int n = nums.length;
-        for(int i=0;i<n;i++){
-            int count = 0;
-            for(int j=0;j<n;j++){
-                if(nums[i] == nums[j]){
-                    count++;
-                }
+        Set<Integer> set = new HashSet<>();
+        int sumofallelements = 0;
+        int sumofuniqueelements = 0;
+        for(int num : nums){
+            if(!set.contains(num)){
+                set.add(num);
+                sumofuniqueelements += num;
             }
-            if(count == 1){
-                return nums[i];
-            }
+            sumofallelements += num;
         }
-        return 0;
+        return 2 * sumofuniqueelements - sumofallelements;
     }
 }
