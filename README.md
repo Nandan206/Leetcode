@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nandan206/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Nandan206/Leetcode/tree/master/0217-contains-duplicate) |
 | [0861-flipping-an-image](https://github.com/Nandan206/Leetcode/tree/master/0861-flipping-an-image) |
+| [0940-fruit-into-baskets](https://github.com/Nandan206/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Nandan206/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandan206/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Nandan206/Leetcode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Nandan206/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Nandan206/Leetcode/tree/master/0217-contains-duplicate) |
+| [0940-fruit-into-baskets](https://github.com/Nandan206/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandan206/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Nandan206/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Nandan206/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Nandan206/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/Nandan206/Leetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
